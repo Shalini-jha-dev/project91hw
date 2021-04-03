@@ -1,0 +1,56 @@
+body {
+    background:orangered;
+}
+
+#bubblyimage{
+    float: right;
+}
+#company{
+   float: left;
+}
+#login{
+    margin-top: 200px;
+    margin-left: 590px;
+}
+#head{
+    margin-left: 785px;
+    margin-top:25px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+#colorline{
+    margin-left: 680px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#loginins{
+    margin-left: 550px;
+    margin-bottom: 40px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.login_div1{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin-left: 190px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: black;
+}
+#loginbutton{
+       height: 50px;
+    width: 250px;
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align:left;
+}
+.n1{
+    color: yellow;
+}
